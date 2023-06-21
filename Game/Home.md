@@ -1,3 +1,8 @@
+## Honk
+Welcome to the ~~Aspirant~~ Untitled Goose World wiki!
+
+Check out the world page at [World](Untitled-Goose-World/Untitled-Goose-World).
+
 ## Aspirant RPG
 *A Game about Adventure and Expertise!*
 
